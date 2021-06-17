@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="711.504" height="562.8" viewBox="0 0 711.504 562.8">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_225" data-name="Rectángulo 225" width="200" height="200" transform="translate(-2769 -6056)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="_2-audio-control-icon" data-name="2-audio-control-icon" transform="translate(3191.565 6327.13)">
+    <g id="Trazado_5390" data-name="Trazado 5390" transform="translate(-2857 -6148)" fill="none">
+      <path d="M188.469,0C292.558,0,376.939,85.887,376.939,191.835S292.558,383.67,188.469,383.67,0,297.783,0,191.835,84.381,0,188.469,0Z" stroke="none"/>
+      <path d="M 188.4694366455078 19.99996948242188 C 95.57504272460938 19.99996948242188 19.99996948242188 97.0848388671875 19.99996948242188 191.8349609375 C 19.99996948242188 286.5850830078125 95.57504272460938 363.6698913574219 188.4694366455078 363.6698913574219 C 281.36376953125 363.6698913574219 356.9388427734375 286.5850830078125 356.9388427734375 191.8349609375 C 356.9388427734375 97.0848388671875 281.36376953125 19.99996948242188 188.4694366455078 19.99996948242188 M 188.4694366455078 -3.0517578125e-05 C 292.5582275390625 -3.0517578125e-05 376.9388427734375 85.88742065429688 376.9388427734375 191.8349609375 C 376.9388427734375 297.7825012207031 292.5582275390625 383.6698913574219 188.4694366455078 383.6698913574219 C 84.38064575195313 383.6698913574219 -3.0517578125e-05 297.7825012207031 -3.0517578125e-05 191.8349609375 C -3.0517578125e-05 85.88742065429688 84.38064575195313 -3.0517578125e-05 188.4694366455078 -3.0517578125e-05 Z" stroke="none" fill="#fff"/>
+    </g>
+    <g id="Elipse_14" data-name="Elipse 14" transform="translate(-3191.565 -6327.13)" fill="#989898" stroke="#fff" stroke-width="6">
+      <ellipse cx="46.065" cy="46.065" rx="46.065" ry="46.065" stroke="none"/>
+      <ellipse cx="46.065" cy="46.065" rx="43.065" ry="43.065" fill="none"/>
+    </g>
+    <g id="Rectángulo_142" data-name="Rectángulo 142" transform="translate(-3139 -5966)" fill="#fff" stroke="#fff" stroke-width="1">
+      <rect width="282" height="13" stroke="none"/>
+      <rect x="0.5" y="0.5" width="281" height="12" fill="none"/>
+    </g>
+    <g id="Rectángulo_226" data-name="Rectángulo 226" transform="translate(-3139 -6235) rotate(90)" fill="#fff" stroke="#fff" stroke-width="1">
+      <rect width="282" height="13" stroke="none"/>
+      <rect x="0.5" y="0.5" width="281" height="12" fill="none"/>
+    </g>
+    <g id="Enmascarar_grupo_3" data-name="Enmascarar grupo 3" clip-path="url(#clip-path)">
+      <g id="_2-audio-control-icon-2" data-name="2-audio-control-icon" transform="translate(-2765.33 -6055.951)">
+        <g id="Fase_Iconos" data-name="Fase Iconos">
+          <g id="Grupo_70" data-name="Grupo 70">
+            <g id="Grupo_69" data-name="Grupo 69">
+              <path id="Trazado_39" data-name="Trazado 39" d="M-4216.062-4397.638h-31.84l-.114-45.326-.13-53.539,11.8-9.026,65.113-49.754,30.293,23.2,20.242,15.464c7.252-1.815,14.52-3.158,21.552-4.216l-72.08-55.208-93.2,71.2q.146,61.857.3,123.714h47.63Q-4216.25-4389.344-4216.062-4397.638Z" transform="translate(4264.375 4575.999)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <g id="Layer_5" data-name="Layer 5" transform="translate(101.202 87.089)">
+          <rect id="Rectángulo_66" data-name="Rectángulo 66" width="23.205" height="44.92" transform="translate(0 26.395)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="12.209"/>
+          <path id="Trazado_40" data-name="Trazado 40" d="M-4088.726-4437.308v47.4l39.3,28.308v-100.925Z" transform="translate(4122.356 4462.539)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="12.209"/>
+          <g id="Grupo_71" data-name="Grupo 71" transform="translate(80.317 36.789)">
+            <path id="Trazado_41" data-name="Trazado 41" d="M-4027.9-4414.608v26.257a13.315,13.315,0,0,0,11.191-13.137,13.317,13.317,0,0,0-11.191-13.121Z" transform="translate(4027.902 4414.607)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

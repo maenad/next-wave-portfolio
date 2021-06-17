@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="698.504" height="556.431" viewBox="0 0 698.504 556.431">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_234" data-name="Rectángulo 234" width="200" height="200" transform="translate(-2769 -6056)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="_9-lighting-control-icon" data-name="9-lighting-control-icon" transform="translate(2872.565 6148.3)">
+    <g id="Trazado_5390" data-name="Trazado 5390" transform="translate(-2872.565 -6148.3)" fill="none">
+      <path d="M188.469,0C292.558,0,376.939,85.887,376.939,191.835S292.558,383.67,188.469,383.67,0,297.783,0,191.835,84.381,0,188.469,0Z" stroke="none"/>
+      <path d="M 188.4694366455078 19.99996948242188 C 95.57504272460938 19.99996948242188 19.99996948242188 97.0848388671875 19.99996948242188 191.8349609375 C 19.99996948242188 286.5850830078125 95.57504272460938 363.6698913574219 188.4694366455078 363.6698913574219 C 281.36376953125 363.6698913574219 356.9388427734375 286.5850830078125 356.9388427734375 191.8349609375 C 356.9388427734375 97.0848388671875 281.36376953125 19.99996948242188 188.4694366455078 19.99996948242188 M 188.4694366455078 -3.0517578125e-05 C 292.5582275390625 -3.0517578125e-05 376.9388427734375 85.88742065429688 376.9388427734375 191.8349609375 C 376.9388427734375 297.7825012207031 292.5582275390625 383.6698913574219 188.4694366455078 383.6698913574219 C 84.38064575195313 383.6698913574219 -3.0517578125e-05 297.7825012207031 -3.0517578125e-05 191.8349609375 C -3.0517578125e-05 85.88742065429688 84.38064575195313 -3.0517578125e-05 188.4694366455078 -3.0517578125e-05 Z" stroke="none" fill="#fff"/>
+    </g>
+    <g id="Enmascarar_grupo_17" data-name="Enmascarar grupo 17" transform="translate(-15.565 -0.3)" clip-path="url(#clip-path)">
+      <g id="_9-lighting-control-icon-2" data-name="9-lighting-control-icon" transform="translate(-2765.846 -6055.968)">
+        <g id="Grupo_60" data-name="Grupo 60">
+          <g id="Grupo_59" data-name="Grupo 59">
+            <path id="Trazado_17" data-name="Trazado 17" d="M-4847.2-4404.571h-31.958l-.106-45.5-.13-53.734,11.846-9.058,65.375-49.943,30.409,23.284,20.317,15.555c7.288-1.826,14.577-3.163,21.637-4.231l-72.354-55.438-93.543,71.475q.147,62.1.3,124.206h47.815Z" transform="translate(4895.711 4583.604)" fill="#fff"/>
+          </g>
+        </g>
+        <path id="Trazado_18" data-name="Trazado 18" d="M-4679.552-4427.138a41.971,41.971,0,0,0-41.627-42.3,41.97,41.97,0,0,0-41.627,42.3,42.394,42.394,0,0,0,21.367,36.939v24.76h40.951v-24.98a45.306,45.306,0,0,0,19.151-24.458,45.207,45.207,0,0,0,1.786-12.261Z" transform="translate(4865.033 4557.254)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="16.305"/>
+        <path id="Trazado_20" data-name="Trazado 20" d="M-4725.524-4409.308l8.625,33.85" transform="translate(4856.432 4543.378)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="16.305"/>
+        <path id="Trazado_21" data-name="Trazado 21" d="M-4731.362-4366.662h38.913" transform="translate(4854.345 4536.97)" stroke="#fff" stroke-miterlimit="10" stroke-width="16.305"/>
+        <path id="Trazado_22" data-name="Trazado 22" d="M-4725.524-4375.458l8.625-33.85" transform="translate(4877.034 4543.378)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="16.305"/>
+      </g>
+    </g>
+    <g id="Elipse_14" data-name="Elipse 14" transform="translate(-2266.192 -5684)" fill="#989898" stroke="#fff" stroke-width="6">
+      <ellipse cx="46.065" cy="46.065" rx="46.065" ry="46.065" stroke="none"/>
+      <ellipse cx="46.065" cy="46.065" rx="43.065" ry="43.065" fill="none"/>
+    </g>
+    <g id="Rectángulo_230" data-name="Rectángulo 230" transform="translate(-2495.626 -5966)" fill="#fff" stroke="#fff" stroke-width="1">
+      <rect width="282" height="13" stroke="none"/>
+      <rect x="0.5" y="0.5" width="281" height="12" fill="none"/>
+    </g>
+    <g id="Rectángulo_226" data-name="Rectángulo 226" transform="translate(-2213.626 -5966) rotate(90)" fill="#fff" stroke="#fff" stroke-width="1">
+      <rect width="282" height="13" stroke="none"/>
+      <rect x="0.5" y="0.5" width="281" height="12" fill="none"/>
+    </g>
+  </g>
+</svg>

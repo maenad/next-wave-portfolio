@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="406" height="671.33" viewBox="0 0 406 671.33">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_117" data-name="Rectángulo 117" width="317" height="316" transform="translate(0.283 -0.195)" fill="#26b1c7"/>
+    </clipPath>
+  </defs>
+  <g id="qualityservices_icon" transform="translate(0.26 0)">
+    <text id="Quality_Services" data-name="Quality
+Services" transform="translate(202.74 520.329)" fill="#26b1c7" font-size="105" font-family="Ubuntu" letter-spacing="0.02em"><tspan x="-179.497" y="0">Quality</tspan><tspan x="-202.807" y="131">Services</tspan></text>
+    <g id="Grupo_1579" data-name="Grupo 1579" transform="translate(46.457 0)">
+      <g id="Grupo_1578" data-name="Grupo 1578" transform="translate(0 0.524)">
+        <g id="Grupo_1577" data-name="Grupo 1577" transform="translate(0 0)" clip-path="url(#clip-path)">
+          <path id="Trazado_5298" data-name="Trazado 5298" d="M297.808,486,263.653,508.59a24.986,24.986,0,0,0-21.5-12.314H211.987c-6.494,0-9.536-4.715-12.583-6.905a62.735,62.735,0,0,0-81.779-.012l-6.586,5.678H47.2a6.2,6.2,0,0,0-6.2,6.2v74.349a6.2,6.2,0,0,0,6.2,6.2h64.326l111.019,18.5a6.189,6.189,0,0,0,4.666-1.1l56.418-41.107,72.062-52.505a6.2,6.2,0,0,0,1.374-8.634A43.645,43.645,0,0,0,297.808,486ZM222.014,587.63,113.055,569.47a6.276,6.276,0,0,0-1.019-.084H53.392V507.428h59.951c3.758,0,4.828-2.667,12.387-8.7a50.283,50.283,0,0,1,65.556,0c2.6,1.752,8.689,9.933,20.7,9.933h30.162a12.086,12.086,0,1,1,0,24.164H167.8a6.2,6.2,0,0,0,0,12.392h74.352a24.684,24.684,0,0,0,24.776-23.944L304.6,496.367a31.306,31.306,0,0,1,38.313,3.173Zm0,0" transform="translate(-40.296 -283.7)" fill="#26b1c7"/>
+        </g>
+      </g>
+      <path id="Trazado_5299" data-name="Trazado 5299" d="M359.384,358.024a6.2,6.2,0,1,1-6.2-6.2,6.2,6.2,0,0,1,6.2,6.2Zm0,0" transform="translate(-156.697 -236.622)" fill="#26b1c7"/>
+      <path id="Trazado_5300" data-name="Trazado 5300" d="M220.96,318.27h148.7a6.2,6.2,0,0,0,6.2-6.193V287.892l18.765-96.03a6.2,6.2,0,0,0-9.519-6.344l-50.609,33.739-33.737-50.608a6.2,6.2,0,0,0-10.31,0l-33.74,50.606L206.1,185.519a6.194,6.194,0,0,0-9.524,6.307l18.186,96.047v24.2a6.2,6.2,0,0,0,6.2,6.193ZM254.989,233a6.2,6.2,0,0,0,8.592-1.718L295.6,183.256l32.021,48.031a6.194,6.194,0,0,0,8.59,1.718l43.4-28.929L364.559,281.1H323.81a6.2,6.2,0,0,0,0,12.392h39.654V305.88H227.156V293.488h40.893a6.2,6.2,0,1,0,0-12.392H226.093l-14.6-77.089Zm0,0" transform="translate(-99.437 -165.89)" fill="#26b1c7"/>
+    </g>
+  </g>
+</svg>

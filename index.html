@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="./css/css-reset.css">
+    <link rel="stylesheet" href="./css/variables.css">
+    <link rel="stylesheet" href="./css/global.css"> 
+    <script src="./js/details.js"></script>
+    <script src="https://kit.fontawesome.com/70a3dfec4d.js" crossorigin="anonymous"></script>
+
+    <title>Document</title>
+
+</head>
+
+<body>
+    <nav id="top-nav">
+        <div class="contact">
+            <ul>
+                <li>
+                    <a href="#"><span>Phone number:</span> (561) 562-0130</a>
+                </li>
+                <li>
+                    <a href="mailto:info@nextwave-automation.com"><span>Email:</span> info@nextwave-automation.com</a>
+                </li>
+                <li>
+                    <span>Follow us:</span>
+                    <ul class="socialmedia">
+                        <li>
+                            <a href="#">
+                                <img src="./assets/assets_web/linkedin_icon.svg" alt="linkedin">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img src="./assets/assets_web/facebook_icon.svg" alt="facebook">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img src="./assets/assets_web/instagram_icon.svg" alt="instagram">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img src="./assets/assets_web/youtube_icon.svg" alt="youtube">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img src="./assets/assets_web/whatsapp_icon.svg" alt="whatsapp">
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <!--Mobile top nav-bar-->
+        <div class="contact-mobile" id="top-nav">
+            <a href="#">
+                <p>Contact us</p>
+                <i class="fas fa-phone-alt"></i>
+                <p>(561) 562-0130</p>
+            </a>
+        </div>
+        <div class="main" id="top">
+            <div class="left">
+                <a href="/">
+                    <img src="./assets/assets_web/logo.png" alt="" class="logo">
+                </a>
+            </div>
+            <div class="right">
+                <ul class="links">
+                    <li><a href="#free-quote" id="quote">
+                            Free Quote
+                        </a></li>
+                    <li>
+                        <hr>
+                    </li>
+                    <li><a href="#about">
+                            About
+                        </a></li>
+                    <li>
+                        <hr>
+                    </li>
+                    <li><a href="#services-tag">
+                            Services
+                        </a></li>
+                    <li>
+                        <hr>
+                    </li>
+                    <li><a href="#brands">
+                            Brand
+                        </a>
+                    </li>
+                    <li>
+                        <hr>
+                    </li>
+                    <li><a href="#free-quote">
+                            Contact us
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="main-mobile">
+            <a href="/" class="logo">
+                <img src="./assets/assets_respo/logo.png" alt="" >
+            </a>
+            <div id="links-mobile">
+                <a href="#free-quote" id="quote" >Free Quote</a>
+                <a href="#about">About</a>
+                <a href="#services-tag">Services</a>
+                <a href="#brands">Brand</a>
+                <a href="#free-quote">Contact us</a>
+            </div>
+            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+              <i class="fa fa-bars"></i>
+            </a>
+          </div>
+    </nav>
+    <div class="arrow-up">
+        <a href="#top-nav">
+            <i class="fas fa-chevron-up"></i>
+        </a>
+    </div>
+    <div class="hero">
+        <div class="hero-left">
+            <div class="hero-info">
+                <h1>Make Your Home Better & Smarter with <span>Smart Lock</span></h1>
+            <button class="button-1"><a href="#services-tag">Services</a></button>
+            </div>
+        </div>
+        <div class="hero-right">
+            <img src="./assets/image_slides/smart-lock.jpg" alt="" id="image">
+        </div>
+        <script type = "text/javascript">
+            var image = document.getElementById("image");
+            var currentPos = 0;
+            var images = ["./assets/image_slides/home-automation.jpg", 
+            "./assets/image_slides/lighting-control.jpg", 
+            "./assets/image_slides/security-system.jpg", 
+            "./assets/image_slides/touchscreen-control.jpg"]
+
+            function volgendefoto() {
+                if (++currentPos >= images.length)
+                    currentPos = 0;
+
+                image.src = images[currentPos];
+            }
+
+            setInterval(volgendefoto, 4000);
+        </script>
+    </div>
+<div class="flex-container">
+    <div class="about section" id="about">
+        <div class="about-left">
+            <div class="section-tag">
+                <hr>
+                <p>About us</p>
+            </div>
+            <div class="about-info">
+                <h1>What we can do for you</h1>
+                <p>A smart home or office is just a few steps away. Imagine pausing a movie to have lights come on so you can find what you’re looking 
+                    for, or gathering with a group of friends to watch the big game on 
+                    a beautiful outdoor television and home theater; a voice command 
+                    to dim your lights, lower your shades and play your favorite music. 
+                </p>
+            </div>
+            <div class="recognized">
+                <h3>Our service is recognized by:</h3>
+                <ul>
+                    <li>
+                        <img src="./assets/assets_web/professionalexperiences_icon.svg" alt="professional experience">
+                    </li>
+                    <li>
+                        <img src="./assets/assets_web/latesttechnology_icon.svg" alt="latest technology">
+                    </li>
+                    <li>
+                        <img src="./assets/assets_web/qualityservices_icon.svg" alt="quality services">
+                    </li>
+                    <li>
+                        <img src="./assets/assets_web/customersolution_icon.svg" alt="customer solution">
+                    </li>
+                    
+                </ul>
+            </div>
+        </div>
+        <div class="about-right" id="free-quote">
+            <form action="submit">
+                <button class="button-1"><a href="#about">Get a free quote now!</a></button>
+                <div class="form-fields">
+                <input type="text" placeholder="Your Name">
+
+                <input type="email" name="email" id="" placeholder="Your Email">
+
+                <input type="text" name="phone" id="" placeholder="Your Phone">
+                </div>
+                <div class="form-service-selection">
+                    <label for="service" class="services-offered">Service interested</label>
+                    <div class="services">
+                        <div class="left">
+                            <div class="service">
+                                <input type="checkbox" name="smart-home-automation" id="">
+                            <label for="smart-home-automation">Smart Home Automation</label>
+                            </div>
+                            <div class="service">
+                                <input type="checkbox" name="other-services" id="">
+                                <label for="other-services">Other Services</label>
+                            </div>
+                            <div class="service">
+                                <input type="checkbox" name="lighting-control" id="">
+                            <label for="lighting-control">Lighting Control</label>
+                            </div>
+                        </div>
+                        <div class="right">
+                            <div class="service">
+                                <input type="checkbox" name="tv-mounting" id="">
+                            <label for="tv-mounting">TV mounting</label>
+                            </div>
+                            <div class="service">
+                                <input type="checkbox" name="security-control" id="">
+                                <label for="security-control">Security Control</label>
+                            </div>
+                        </div>
+
+                        
+                    </div>
+                    <div class="quote">
+                        <label for="" class="services-offered">Quote details</label>
+                    <textarea name="quote" id="quote" cols="10" rows="1"></textarea>
+                    </div>
+                </div>
+                <button type="submit" class="button-2">
+                    <a href="#">SUBMIT INQUIRY</a>
+                </button>
+                <button class="button-1 contact-button">
+                    <a href="#">
+                        Question? Contact us now. <br>
+                        <span><i class="fas fa-phone-alt"></i> (561) 562-0130</span>
+                    </a>
+                </button>
+            </form>
+<div class="buttons-mobile">
+    <button type="submit" class="button-2">
+        <a href="#free-quote">Submit inquiry</a>
+    </button>
+    <button class="button-1">
+        <a href="/">
+            Question? Contact us now. <br>
+            <span><i class="fas fa-phone-alt"></i> (561) 562-0130</span>
+        </a>
+    </button>
+</div>
+        </div>
+    </div>
+    <div class="section-tag" id="services-tag">
+        <hr>
+        <p>Our services</p>
+        <hr>
+    </div>
+<div class="service-list" >
+    <div class="our-services">
+        <div class="arrow-mobile">
+            <a href="#"><i class="fas fa-chevron-right"></i></a>
+        </div>
+        <div class="first">
+            <div class="col1">
+                <a href="#">
+                    <img src="./assets/icons/1-tv-mounting-icon.svg" alt="" class="tv-mounting">
+                </a>
+            </div>
+            <div class="col2">
+                <a href="#">
+                    <img src="./assets/icons/2-audio-control-icon.svg" alt="">
+                </a>
+                <a href="#">
+                    <img src="./assets/icons/3-custom-home-system.svg" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="second">
+            <div class="col3">
+                <a href="#">
+                    <img src="./assets/icons/4-ip-networking-icon.svg" alt="">
+                </a>
+            </div>
+            <div class="col4">
+                <a href="#">
+                    <img src="./assets/icons/5-smart-lock-icon.svg" alt="">
+                </a>
+            </div>
+            <div class="col5">
+                <a href="#" class="one">
+                    <img src="./assets/icons/6-security-system-icon.svg" alt="">
+                </a>
+                <a href="#" class="two">
+                    <img src="./assets/icons/7-home-automation.svg" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="third">
+            <div class="col6">
+                <a href="#">
+                    <img src="./assets/icons/8-touch-voice-icon.svg" alt="">
+                </a>
+            </div>
+            <div class="col7">
+                <a href="#">
+                    <img src="./assets/icons/9-lighting-control-icon.svg" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="fourth">
+            <div class="col8">
+                <a href="#">
+                    <img src="./assets/icons/10-outdoor-entertainment-icon.svg" alt="">
+                </a>
+            </div>
+        </div>
+
+    </div>
+</div>
+<div class="services-info">
+    <div class="left">
+        <div class="service-title">
+            <h1>TV Mounting</h1>
+            <!--        <h1>Audio Control</h1>
+                        <h1>Custom Home System</h1>
+                        <h1>IP Networking</h1>
+                        <h1>Smart Lock</h1>
+                        <h1>Security System</h1>
+                        <h1>Home automation</h1>
+                        <h1>Touchscreen & Voice control</h1>
+                        <h1>Lighting Control</h1>
+                        <h1>Outdoor Entertainment</h1> -->
+                    <hr class="mobile-divider">
+                    </div>
+        <h3>Tell us more about what you’d like to experience</h3>
+        <div class="cta">
+                <button class="button-1">
+                    <a href="#free-quote">Get a free quote</a>
+                </button>
+            <a href="#"><i class="fas fa-phone-alt"></i> (561) 562-0130</a>
+        </div>
+    </div>
+    <div class="right">
+        <p id="tv-mounting" class="description">
+            Mounting your TV is the ideal way to get the best television experience possible. From watching your shows at the best possible angle to giving a modern style to your living room or media room, our expert technicians are here to help you create a mounted TV setup your family and friends will love. When mounting, hanging, and installing your television, we take size, setup, external components, cable hiding, and power installation into mind in order to give you a completely customized, streamlined, and aesthetically-pleasing installation.
+        </p>
+<!--         <p id="audio-control" class="description">
+            The days of having to hassle with complicated audio systems are over. With our audio control service, you’ll have the ability to access and control your music libraries right at your fingertips. We can design your home audio setup in a way that easily integrates into your home décor, leaving you with an unobstructive and sleek setup that provides ultra-clear and high-quality sound wherever you wish.
+        </p>
+        <p id="custom-home-system" class="description">
+            When it comes to designing the smart home of your dreams, you may want to add something outside of the box. We’re here to discuss and execute all of your wishes regarding your dream smart home setup and more. From automated TV brackets and furniture lifts to setting up personalized scene functions, we will create the perfect custom setup for making your house truly feel like a home.
+        </p>
+        <p id="ip-networking" class="description">
+            If you’re looking to completely streamline your smart home features, then IP networking is the way to go. This new standard in home automation technology allows your smart home devices and features to work seamlessly alongside each other, along with streamlining home automation, beefing up network security, and future-proofing your setup for advances in smart home technology.
+        </p>
+        <p id="smart-lock" class="description">
+            Almost everyone has had the question in the back of their mind when leaving the house – “Did I forget to lock the doors?” You can put those worries to rest with a smart lock system. With this service, you’ll be able to lock and unlock your door from anywhere in the world, providing a feeling of safety and hands-free convenience whenever you need.
+        </p>
+        <p id="security-system" class="description">
+            One of the primary advantages of a smart home system is the convenience and peace of mind it adds to your life. With our security system services, your smart device can alert you of any home intrusions using entry sensors and sirens and can be connected with smart lightbulbs, door locks, video doorbells, and security cameras. 
+        </p>
+        <p id="home-automation" class="description">
+            Our home automation services allow you to have complete control over your home, providing convenience and comfort and saving you time. Ever dreamed of being able to close the blinds, play music, and set lighting all from the touch of a button? We can seamlessly integrate several of your smart home services, such as lighting, audio, video, entertainment, and security, to be easily controlled right from your mobile device or touchpad.
+        </p>
+        <p id="touchscreen-voice-control" class="description">
+            Touchscreens and voice control functionalities are two of the easiest ways to access and use your smart home features. You won’t ever have to worry about misplacing your various remotes or forgetting to turn off the lights ever again. With all of your controls just a touch or voice command away, you can save time and create a streamlined smart home system that meets all of your needs.
+        </p>
+        <p id="lighting-control" class="description">
+            Imagine coming home from a long day of work and having your home lighting at just the right brightness and tone for relaxation. Our lighting control services offer you advanced solutions for setting the scene at your home with customizable settings that integrate overhead lighting, table lamps, window shades, and more. From extra privacy and security to energy-saving and creating that special feel, smart lighting is ideal for creating the perfect atmosphere in your home.
+        </p>
+        <p id="outdoor-entertainment" class="description">
+            Your backyard is one of the greatest spaces for entertaining guests, especially during the warm summer months. Bring your home technology outdoors with our outdoor entertainment services. We can provide every service for making your dream outdoor entertainment space a reality, including outdoor music setup, moisture-resistant TV installation, automated pool and outdoor lighting, and projectors to create your perfect backyard, patio, or pool area.
+        </p> -->
+
+        <button class="button-quote button-mobile">
+            <a href="#free-quote">
+                Get a free quote
+            </a>
+        </button>
+        <button class="button-questions button-mobile">
+            
+                <a href="#free-quote">
+                    Question? Contact us now. <br>
+                    <span><i class="fas fa-phone-alt"></i> (561) 562-0130</span>
+                </a>
+            
+        </button>
+    </div>
+</div>
+<div class="section-tag" id="brands-tag">
+    <hr>
+    <p>Brands we work with</p>
+    <hr>
+</div>
+<div class="carousel-brands" id="brands">
+    <div class="slider">
+        <div class="slide-track">
+            <div class="slide">
+                <img src="./assets/logos_business/1-amazon.png" height="100" width="250" alt="" />
+            </div>
+            <div class="slide">
+                <img src="./assets/logos_business/2-control.png" height="100" width="250" alt="" />
+            </div>
+            <div class="slide">
+                <img src="./assets/logos_business/3-eclipse.png" height="100" width="250" alt="" />
+            </div>
+            <div class="slide">
+                <img src="./assets/logos_business/4-futureautomation.png" height="100" width="250" alt="" />
+            </div>
+            <div class="slide">
+                <img src="./assets/logos_business/5-googlehome.png" height="100" width="250" alt="" />
+            </div>
+            <div class="slide">
+                <img src="./assets/logos_business/6-josh.png" height="100" width="250" alt="" />
+            </div>
+            <div class="slide">
+                <img src="./assets/logos_business/7-lutron.png" height="100" width="250" alt="" />
+            </div>
+            <div class="slide">
+                <img src="./assets/logos_business/8-roku.png" height="100" width="250" alt="" />
+            </div>
+            <div class="slide">
+                <img src="./assets/logos_business/9-samsung.png" height="100" width="250" alt="" />
+            </div>
+            <div class="slide">
+                <img src="./assets/logos_business/10-savant.png" height="100" width="250" alt="" />
+            </div>
+            <div class="slide">
+                <img src="./assets/logos_business/11-snapav.png" height="100" width="250" alt="" />
+            </div>
+            <div class="slide">
+                <img src="./assets/logos_business/12-sonos.png" height="100" width="250" alt="" />
+            </div>
+            <div class="slide">
+                <img src="./assets/logos_business/13-sony.png" height="100" width="250" alt="" />
+            </div>
+            <div class="slide">
+                <img src="./assets/logos_business/14-triad.png" height="100" width="250" alt="" />
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="contact-us section">
+    <div class="left">
+        <img src="./assets/assets_web/question_icon.svg" alt="">
+    </div>
+    <div class="center">
+        <p>Have any questions?</p>
+        <h3>Don’t hesitate to contact us any time.</h3>
+    </div>
+    <div class="right">
+        <button class="button-2">Contact us now</button>
+    </div>
+</div>
+</div>
+
+<footer>
+    <div class="left">
+        <img src="./assets/assets_web/logo-footer.png" alt="">
+    </div>
+    <div class="center">
+        <div class="first">
+            <ul>
+                <li><a href="#free-quote" id="free-quote">
+                    FREE QUOTE
+                </a></li>
+                <li><a href="#services-tag">
+                    Services
+                </a></li>
+                <li><a href="#">
+                    Testimonials
+                </a></li>
+                <li><a href="#">
+                    Blog
+                </a></li>
+                <li><a href="#free-quote">
+                    Contact Us
+                </a></li>
+            </ul>
+        </div>
+        <div class="second">
+            <p class="title">CONTACT US</p>
+            <p><a href="#">(561) 123-234</a></p>
+            <p><a href="mailto:nextwavefl@gmail.com">nextwavefl@gmail.com</a></p>
+            <div class="socialmedia">
+                <p class="title">FOLLOW US</p>
+                <div class="sm">
+                    <a href="#"><img src="./assets/assets_web/linkedin_icon.svg" alt=""></a>
+                <a href="#"><img src="./assets/assets_web/facebook_icon.svg" alt=""></a>
+                <a href="#"><img src="./assets/assets_web/instagram_icon.svg" alt=""></a>
+                <a href="#"><img src="./assets/assets_web/youtube_icon.svg" alt=""></a>
+                <a href="#"><img src="./assets/assets_web/whatsapp_icon.svg" alt=""></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="right">__</div>
+    <!-- <div class="credit">Branding and Website Design by: Alejandra Hurtado</div> -->
+</footer>
+<div class="footer-mobile">
+<div class="top">
+    <div class="contact-mobile">
+        <button>@ nextwavefl@gmail.com</button>
+        <button><span><i class="fas fa-phone-alt"></i> (561) 562-0130</span>
+        </button>
+    </div>
+    <div class="socialmedia-mobile">
+        <button><img src="./assets/assets_web/linkedin_icon.svg" alt=""></button>
+        <button><img src="./assets/assets_web/facebook_icon.svg" alt=""></button>
+        <button><img src="./assets/assets_web/instagram_icon.svg" alt=""></button>
+        <button><img src="./assets/assets_web/youtube_icon.svg" alt=""></button>
+        <button><img src="./assets/assets_web/whatsapp_icon.svg" alt=""></button>
+    </div>
+</div>
+<div class="bottom">
+    <img src="./assets/assets_respo/logo.png" alt="">
+    <ul>
+        <li><a href="#">About Us</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Brands</a></li>
+
+    </ul>
+</div>
+</div>
+</body>
+
+</html>

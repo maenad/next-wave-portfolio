@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="746.939" height="383.67" viewBox="0 0 746.939 383.67">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_225" data-name="Rectángulo 225" width="200" height="200" transform="translate(-2769 -6056)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="_1-tv-mounting-icon" data-name="1-tv-mounting-icon" transform="translate(3227 6148)">
+    <g id="Trazado_5390" data-name="Trazado 5390" transform="translate(-2857 -6148)" fill="none">
+      <path d="M188.469,0C292.558,0,376.939,85.887,376.939,191.835S292.558,383.67,188.469,383.67,0,297.783,0,191.835,84.381,0,188.469,0Z" stroke="none"/>
+      <path d="M 188.4694366455078 19.99996948242188 C 95.57504272460938 19.99996948242188 19.99996948242188 97.0848388671875 19.99996948242188 191.8349609375 C 19.99996948242188 286.5850830078125 95.57504272460938 363.6698913574219 188.4694366455078 363.6698913574219 C 281.36376953125 363.6698913574219 356.9388427734375 286.5850830078125 356.9388427734375 191.8349609375 C 356.9388427734375 97.0848388671875 281.36376953125 19.99996948242188 188.4694366455078 19.99996948242188 M 188.4694366455078 -3.0517578125e-05 C 292.5582275390625 -3.0517578125e-05 376.9388427734375 85.88742065429688 376.9388427734375 191.8349609375 C 376.9388427734375 297.7825012207031 292.5582275390625 383.6698913574219 188.4694366455078 383.6698913574219 C 84.38064575195313 383.6698913574219 -3.0517578125e-05 297.7825012207031 -3.0517578125e-05 191.8349609375 C -3.0517578125e-05 85.88742065429688 84.38064575195313 -3.0517578125e-05 188.4694366455078 -3.0517578125e-05 Z" stroke="none" fill="#fff"/>
+    </g>
+    <g id="Elipse_14" data-name="Elipse 14" transform="translate(-3227 -6003.158)" fill="#989898" stroke="#fff" stroke-width="6">
+      <ellipse cx="46.065" cy="46.065" rx="46.065" ry="46.065" stroke="none"/>
+      <ellipse cx="46.065" cy="46.065" rx="43.065" ry="43.065" fill="none"/>
+    </g>
+    <g id="Rectángulo_142" data-name="Rectángulo 142" transform="translate(-3139 -5966)" fill="#fff" stroke="#fff" stroke-width="1">
+      <rect width="282" height="13" stroke="none"/>
+      <rect x="0.5" y="0.5" width="281" height="12" fill="none"/>
+    </g>
+    <g id="Enmascarar_grupo_2" data-name="Enmascarar grupo 2" clip-path="url(#clip-path)">
+      <g id="_1-tv-mounting-icon-2" data-name="1-tv-mounting-icon" transform="translate(-9470.381 -6593.505)">
+        <g id="Grupo_1896" data-name="Grupo 1896" transform="translate(6701.365 548.353)">
+          <g id="Grupo_1895" data-name="Grupo 1895">
+            <g id="Grupo_1894" data-name="Grupo 1894">
+              <path id="Trazado_5392" data-name="Trazado 5392" d="M6750.733,711.485h-32.52l-.113-41.459-.137-48.965,12.081-8.247,66.529-45.51,30.941,21.221,20.673,14.174c7.409-1.659,14.834-2.883,22.019-3.858l-73.625-50.487-95.2,65.128.314,113.176h48.651Q6750.531,719.071,6750.733,711.485Z" transform="translate(-6701.365 -548.353)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <g id="Grupo_1897" data-name="Grupo 1897" transform="translate(6769.015 614.593)">
+          <path id="Trazado_5393" data-name="Trazado 5393" d="M7041.794,776.541V840H6934.135V776.541h107.651m0-12.362H6934.135a12.354,12.354,0,0,0-12.354,12.362V840a12.354,12.354,0,0,0,12.354,12.362h107.651A12.362,12.362,0,0,0,7054.147,840V776.541a12.352,12.352,0,0,0-12.362-12.362Z" transform="translate(-6921.781 -764.179)" fill="#fff"/>
+        </g>
+        <g id="Grupo_1898" data-name="Grupo 1898" transform="translate(6805.448 695.933)">
+          <path id="Trazado_5394" data-name="Trazado 5394" d="M7047.931,1029.235v22.55h0v-22.55h0m-7.417,0v22.55h14.827v-22.55Z" transform="translate(-7040.513 -1029.219)" fill="#fff"/>
+        </g>
+        <g id="Grupo_1899" data-name="Grupo 1899" transform="translate(6849.606 695.933)">
+          <path id="Trazado_5395" data-name="Trazado 5395" d="M7191.758,1029.235v22.55h0v-22.55h0m-7.417,0v22.55h14.827v-22.55Z" transform="translate(-7184.373 -1029.219)" fill="#fff"/>
+        </g>
+        <g id="Grupo_1900" data-name="Grupo 1900" transform="translate(6790.839 713.869)">
+          <rect id="Rectángulo_224" data-name="Rectángulo 224" height="76.589" transform="translate(6.177 6.177) rotate(-90)" fill="#fff"/>
+          <path id="Trazado_5396" data-name="Trazado 5396" d="M7075.675,1100.009h-76.588a6.181,6.181,0,1,1,0-12.362h76.588a6.181,6.181,0,1,1,0,12.362Z" transform="translate(-6992.91 -1087.647)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

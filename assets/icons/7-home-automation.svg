@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="746.939" height="383.67" viewBox="0 0 746.939 383.67">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_225" data-name="Rectángulo 225" width="200" height="200" transform="translate(-2769 -6056)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="_7-home-automation" data-name="7-home-automation" transform="translate(3227 6148)">
+    <g id="Trazado_5390" data-name="Trazado 5390" transform="translate(-2857 -6148)" fill="none">
+      <path d="M188.469,0C292.558,0,376.939,85.887,376.939,191.835S292.558,383.67,188.469,383.67,0,297.783,0,191.835,84.381,0,188.469,0Z" stroke="none"/>
+      <path d="M 188.4694366455078 19.99996948242188 C 95.57504272460938 19.99996948242188 19.99996948242188 97.0848388671875 19.99996948242188 191.8349609375 C 19.99996948242188 286.5850830078125 95.57504272460938 363.6698913574219 188.4694366455078 363.6698913574219 C 281.36376953125 363.6698913574219 356.9388427734375 286.5850830078125 356.9388427734375 191.8349609375 C 356.9388427734375 97.0848388671875 281.36376953125 19.99996948242188 188.4694366455078 19.99996948242188 M 188.4694366455078 -3.0517578125e-05 C 292.5582275390625 -3.0517578125e-05 376.9388427734375 85.88742065429688 376.9388427734375 191.8349609375 C 376.9388427734375 297.7825012207031 292.5582275390625 383.6698913574219 188.4694366455078 383.6698913574219 C 84.38064575195313 383.6698913574219 -3.0517578125e-05 297.7825012207031 -3.0517578125e-05 191.8349609375 C -3.0517578125e-05 85.88742065429688 84.38064575195313 -3.0517578125e-05 188.4694366455078 -3.0517578125e-05 Z" stroke="none" fill="#fff"/>
+    </g>
+    <g id="Elipse_14" data-name="Elipse 14" transform="translate(-3227 -6003.158)" fill="#989898" stroke="#fff" stroke-width="6">
+      <ellipse cx="46.065" cy="46.065" rx="46.065" ry="46.065" stroke="none"/>
+      <ellipse cx="46.065" cy="46.065" rx="43.065" ry="43.065" fill="none"/>
+    </g>
+    <g id="Rectángulo_142" data-name="Rectángulo 142" transform="translate(-3139 -5966)" fill="#fff" stroke="#fff" stroke-width="1">
+      <rect width="282" height="13" stroke="none"/>
+      <rect x="0.5" y="0.5" width="281" height="12" fill="none"/>
+    </g>
+    <g id="Enmascarar_grupo_8" data-name="Enmascarar grupo 8" clip-path="url(#clip-path)">
+      <g id="_7-home-automation-2" data-name="7-home-automation" transform="translate(-10550.885 -25222.172)">
+        <g id="Grupo_1912" data-name="Grupo 1912" transform="translate(7781.884 19172.615)">
+          <g id="Grupo_91" data-name="Grupo 91">
+            <path id="Trazado_55" data-name="Trazado 55" d="M-5370.9-4313.187h-30.553l-.1-43.516-.127-51.4,11.327-8.663,62.525-47.767,29.077,22.272,19.424,14.877c6.972-1.747,13.944-3.032,20.692-4.053l-69.193-52.992-89.456,68.348q.144,59.406.288,118.8h45.717Q-5371.1-4305.25-5370.9-4313.187Z" transform="translate(5417.292 4484.408)" fill="#fff"/>
+          </g>
+        </g>
+        <circle id="Elipse_24" data-name="Elipse 24" cx="8.073" cy="8.073" r="8.073" transform="translate(7912.478 19342.951)" fill="#fff"/>
+        <path id="Trazado_5397" data-name="Trazado 5397" d="M-5266.58-4274.251a32.9,32.9,0,0,1,26.437-15.556,31.111,31.111,0,0,1,27.305,15.557" transform="translate(13161.731 23608.715)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="15.954"/>
+        <path id="Trazado_5398" data-name="Trazado 5398" d="M-5288.342-4310.929a52.689,52.689,0,0,1,40.867-22.424,53.041,53.041,0,0,1,42.756,22.424" transform="translate(13167.116 23619.531)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="15.954"/>
+        <path id="Trazado_5399" data-name="Trazado 5399" d="M-5305.716-4343.054a69,69,0,0,1,54.819-29.459,69.005,69.005,0,0,1,54.819,29.459" transform="translate(13171.424 23629.248)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="15.954"/>
+      </g>
+    </g>
+  </g>
+</svg>
